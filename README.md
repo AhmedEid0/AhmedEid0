@@ -6,11 +6,10 @@
   <a href="https://www.linkedin.com/in/ahmed-1eid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://twitter.com/ahmedeid553">
-  style="background-color: black; padding: 10px; border-radius: 5px; display: inline-flex; align-items: center;">
+<a href="https://twitter.com/ahmedeid553" style="background-color: black; padding: 10px; border-radius: 5px; display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://i.imgur.com/e1x7IAf.jpg" width="20" height="20" alt="X Logo">
     <span style="color: white; margin-left: 10px;">X</span>
-</a>
+  </a>
 
 
 # Hi there 👋
