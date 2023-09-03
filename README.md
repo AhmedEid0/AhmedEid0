@@ -8,9 +8,9 @@
   </a>
 <a href="https://twitter.com/ahmedeid553">
   style="background-color: black; padding: 10px; border-radius: 5px; display: inline-flex; align-items: center;">
-    <img src="https://simpleicons.org/icons/x-dot-org.svg" width="20" height="20" alt="X Logo">
+    <img src="https://i.imgur.com/e1x7IAf.jpg" width="20" height="20" alt="X Logo">
     <span style="color: white; margin-left: 10px;">X</span>
-  </a>
+</a>
 
 
 # Hi there 👋
