@@ -14,6 +14,15 @@
 # Hi there 👋
 
 </div>
+<style>
+  #badges a {
+    text-decoration: none;
+    color: inherit;
+  }
+  #badges a:hover {
+    text-decoration: none;
+  }
+</style>
 
 ## About Me
 
