@@ -17,6 +17,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+## About Me
+
+Hello! I'm Ahmed Eid, an aspiring Computer Engineer in the making, currently navigating my Bachelor's journey. My passion for programming is complemented by a robust foundation in Artificial Intelligence, having invested significant time in mastering its nuances through intensive programs. Beyond the academic realm, I've delved deep into real-world applications, always eager to innovate and bring fresh perspectives to the tech landscape. My commitment to continuous learning drives me to explore new technologies and collaborate on groundbreaking projects. If you share a similar interests or are looking for a collaboration, let's connect and make technology even more fascinating!
