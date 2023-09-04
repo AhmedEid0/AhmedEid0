@@ -39,3 +39,6 @@ Hello! I'm Ahmed Eid, an aspiring Computer Engineer in the making, currently nav
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
+
+>"Don’t let the noise of others’ opinions drown out your own inner voice." — Steve Jobs
