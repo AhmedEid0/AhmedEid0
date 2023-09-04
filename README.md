@@ -6,10 +6,9 @@
   <a href="https://www.linkedin.com/in/ahmed-1eid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href="https://twitter.com/ahmedeid553"
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x-dot-org&logoColor=white" alt="X Badge"/>
+ <a href="https://twitter.com/ahmedeid553">
+    <img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x-dot-org&logoColor=white" alt="X Badge"/>
   </a>
-
 # Hi there 👋
 
 </div>
